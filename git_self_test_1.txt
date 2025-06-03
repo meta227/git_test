@@ -1,1 +1,1 @@
-Edit for purpose of git commit change to visula code for commit message"
+Edit for purpose of git commit change to visual code for commit message
